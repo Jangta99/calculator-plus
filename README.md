@@ -1,4 +1,4 @@
-# iphone-calculator-plus
+# calculator-plus
 # Author: Jason Yu
 # 
 # Steps
