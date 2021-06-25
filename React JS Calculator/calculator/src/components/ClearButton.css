@@ -1,0 +1,16 @@
+.Clear-Btn{
+   display: flex;
+   flex: 1;
+   height: 4em;
+   align-items: center;
+   justify-content: center;
+   font-weight: lighter;
+   font-size: 1.rem;
+   outline: 1px solid #888;
+   height: 4em;
+   background-color: #c5c5cd;
+}
+
+.Clear-Btn:hover{
+   background-color: #aeaeb8;
+}

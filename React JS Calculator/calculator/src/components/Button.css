@@ -1,0 +1,25 @@
+.Button {
+   display: flex;
+   height: 4em;
+   flex: 1;
+   justify-content: center;
+   align-items: center;
+   font-weight: lighter;
+   font-size: 1.4em;
+   background-color: #e0e1e6;
+   color: #888;
+   outline: 1px solid #888;
+}
+
+.Button:hover{
+    background-color: #d1d2d8;
+}
+
+.operator{
+    background-color: #fe9241;
+    color: #fff;
+}
+
+.operator:hover{
+    background-color: #fa852b;
+}
