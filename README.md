@@ -16,3 +16,4 @@
 # 1. Made the program work with decimal points
 # 2. Added hover colors over the buttons
 # 3. Made the program work with using double operators. For example, 5 + 5 + (using plus instead of equals) will still result in 10.
+# 4. Made the program faster and more efficient by replace multiple if-else statements with switch statements.
