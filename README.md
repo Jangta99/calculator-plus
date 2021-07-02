@@ -3,8 +3,6 @@ Author: Jason Yu
 Added a preview image
 ![calculator-pic-2](https://user-images.githubusercontent.com/25576089/123769479-32852e80-d87e-11eb-838b-1b52a6ebefde.png)
 
-
- 
 Steps
 1. Download the .zip file
 2. Install React js in the ./React JS Calculator/calculator path
